@@ -1,4 +1,4 @@
-Warning: Project only works on Local Area Network (LAN)
+Warning: Project only works on Local Area Network (LAN).
 
 The first script sends message to a desired server. Multiple clients can be used as teh same time. 
 
@@ -24,4 +24,4 @@ Here are the dependencies for the server:
 tokio = { version = "1", features = ["full"] }
 
 
-Project for WAN (Wide Area Network) are comming soon in the future
+Project for WAN (Wide Area Network) are comming soon in the future.
