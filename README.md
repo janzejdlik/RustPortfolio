@@ -3,6 +3,8 @@ Warning: Project only works on Local Area Network (LAN).
 <br/>
 
 Client 
+
+
 Download Rust from [Rust Official Website](https://www.rust-lang.org/tools/install). Sometimes cargo install is required as well.
 Once Rust and Cargo is downloaded, create new Rust project directory with cargo:
 
@@ -30,12 +32,14 @@ druid = "0.7.0"
 
 druid-derive = "0.5.1"
 ```
-Now client-side application is finished. ()
+Now client-side application is finished.
 
 <br/>
 <br/>
 
 Server 
+
+
 The same should be done for the server-side of the application
 
 In the second file "server.rs" is used as the hosting server, it recieves the message and resends it back to all the clients so they can see it. 
