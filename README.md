@@ -1,6 +1,6 @@
 Warning: Project only works on Local Area Network (LAN).
 
-The first script sends message to a desired server. Multiple clients can be used as teh same time. 
+The first script sends message to a desired server. Multiple clients can be used as the same time. 
 
 Here are the dependencies for the client:
 
