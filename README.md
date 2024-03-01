@@ -23,7 +23,7 @@ The first file "main.rs" sends message to a desired server. Multiple clients can
 
 Here are the dependencies for the client "main.rs":
 
-```json
+```toml
 [dependencies]
 
 tokio = { version = "1", features = ["full"] }
