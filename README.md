@@ -1,6 +1,8 @@
 Warning: Project only works on Local Area Network (LAN).
 
-Download Rust from [Rust Official Website](https://www.rust-lang.org/tools/install). Once Rust is downloaded, create new Rust project directory with cargo
+Client (an <h6> tag)
+Download Rust from [Rust Official Website](https://www.rust-lang.org/tools/install). Sometimes cargo install is required as well.
+Once Rust and Cargo is downloaded, create new Rust project directory with cargo:
 
 ```console
 cargo new project_name
@@ -26,11 +28,11 @@ druid = "0.7.0"
 
 druid-derive = "0.5.1"
 ```
-Now client-side application is finished.
+Now client-side application is finished. ()
 
 
 
-
+Server (an <h6> tag)
 The same should be done for the server-side of the application
 
 In the second file "server.rs" is used as the hosting server, it recieves the message and resends it back to all the clients so they can see it. 
