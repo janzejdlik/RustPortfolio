@@ -2,7 +2,7 @@ Warning: Project only works on Local Area Network (LAN).
 
 <br/>
 
-**Client **
+<h2>Client</h2>
 
 
 Download Rust from [Rust Official Website](https://www.rust-lang.org/tools/install). Sometimes cargo install is required as well.
@@ -37,7 +37,7 @@ Now client-side application is finished.
 <br/>
 <br/>
 
-**Server **
+<h2>Server</h2>
 
 
 The same should be done for the server-side of the application
