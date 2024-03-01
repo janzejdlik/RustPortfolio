@@ -2,6 +2,7 @@ Warning: Project only works on Local Area Network (LAN).
 
 Do not forget to change the IP Adress and Port number to your personal preferences.
 
+
 <h2>Client</h2>
 
 
