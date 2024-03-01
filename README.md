@@ -19,7 +19,7 @@ cd project_name/src
 Replace the content of your "main.rs" file with this project's "main.rs" file.
 
 
-The first file "main.rs" sends message to a desired server. Multiple clients can be used as the same time. 
+File "main.rs" sends message to a desired server. Multiple clients can be used as the same time. 
 
 Here are the dependencies for the client "main.rs":
 
