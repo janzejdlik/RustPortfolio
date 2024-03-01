@@ -1,6 +1,6 @@
 Warning: Project only works on Local Area Network (LAN).
 
-Client (<h6> tag)
+Client 
 Download Rust from [Rust Official Website](https://www.rust-lang.org/tools/install). Sometimes cargo install is required as well.
 Once Rust and Cargo is downloaded, create new Rust project directory with cargo:
 
@@ -32,7 +32,7 @@ Now client-side application is finished. ()
 
 
 
-Server (<h6> tag)
+Server 
 The same should be done for the server-side of the application
 
 In the second file "server.rs" is used as the hosting server, it recieves the message and resends it back to all the clients so they can see it. 
