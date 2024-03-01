@@ -41,7 +41,7 @@ Now client-side application is finished.
 
 The same process should be repeated for the server-side of the application
 
-In the second file "server.rs" is used as the hosting server, it recieves the message and resends it back to all the clients so they can see it. 
+Second file "server.rs" (your file name will be "main.rs" as well, I just use "server.rs" to highlight the fact that both client and server are two separate folders) is used as the hosting server, it recieves the message and resends it back to all the clients so they can see it. 
 
 Here are the dependencies for the server "server.rs":
 ```toml
