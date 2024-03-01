@@ -23,7 +23,7 @@ The first file "main.rs" sends message to a desired server. Multiple clients can
 
 Here are the dependencies for the client "main.rs":
 
-```console
+```json
 [dependencies]
 
 tokio = { version = "1", features = ["full"] }
@@ -34,8 +34,6 @@ druid-derive = "0.5.1"
 ```
 Now client-side application is finished.
 
-<br/>
-<br/>
 
 <h2>Server</h2>
 
@@ -45,7 +43,7 @@ The same process should be repeated for the server-side of the application
 In the second file "server.rs" is used as the hosting server, it recieves the message and resends it back to all the clients so they can see it. 
 
 Here are the dependencies for the server "server.rs":
-```console
+```json
 [dependencies]
 
 tokio = { version = "1", features = ["full"] }
