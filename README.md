@@ -11,12 +11,12 @@ Once Rust and Cargo is downloaded, create new Rust project directory with cargo:
 ```console
 cargo new project_name
 ```
-then navigate to project directory by typing:
+Then navigate to project directory by typing:
 
 ```console
 cd project_name/src
 ```
-replace from this repository "main.rs"
+Replace the content of your "main.rs" file with this project's "main.rs" file.
 
 
 The first file "main.rs" sends message to a desired server. Multiple clients can be used as the same time. 
