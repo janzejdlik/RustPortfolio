@@ -43,7 +43,7 @@ The same process should be repeated for the server-side of the application
 In the second file "server.rs" is used as the hosting server, it recieves the message and resends it back to all the clients so they can see it. 
 
 Here are the dependencies for the server "server.rs":
-```json
+```toml
 [dependencies]
 
 tokio = { version = "1", features = ["full"] }
